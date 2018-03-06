@@ -1,0 +1,3 @@
+[submodule "async"]
+	path = async
+	url = https://github.com/flanker-d/otuscpp_11_async
